@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- keyboard with a smaller floating keyboard above it: cycles standard / one-handed / floating -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:strokeColor="#FFF"
+        android:strokeWidth="1.8"
+        android:strokeLineJoin="round"
+        android:pathData="M3,11.5h18a1,1 0,0 1,1 1v7a1,1 0,0 1,-1 1h-18a1,1 0,0 1,-1 -1v-7a1,1 0,0 1,1 -1z"/>
+    <path
+        android:fillColor="#FFF"
+        android:pathData="M5,14h2v2h-2zM9,14h2v2h-2zM13,14h2v2h-2zM17,14h2v2h-2zM7,17.5h10v1.5h-10z"/>
+    <path
+        android:strokeColor="#FFF"
+        android:strokeWidth="1.8"
+        android:strokeLineJoin="round"
+        android:pathData="M8,3h8a1,1 0,0 1,1 1v3.5a1,1 0,0 1,-1 1h-8a1,1 0,0 1,-1 -1v-3.5a1,1 0,0 1,1 -1z"/>
+</vector>

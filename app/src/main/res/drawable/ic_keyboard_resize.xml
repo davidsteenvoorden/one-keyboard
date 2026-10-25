@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- vertical double arrow between two bars: keyboard size -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <path
+        android:strokeColor="#FFF"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M4,3h16M4,21h16M12,6.5v11M8.5,9.5l3.5,-3.5l3.5,3.5M8.5,14.5l3.5,3.5l3.5,-3.5"/>
+</vector>

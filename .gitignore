@@ -1,0 +1,20 @@
+*.iml
+.idea
+.gradle
+.kotlin
+local.properties
+.DS_Store
+Gemfile
+build
+app/build
+app/release
+app/.cxx
+app/.attach_*
+fastlane/Appfile
+tools/*.txt
+*.patch
+*.diff
+*.sh
+
+# proprietary Google glide-typing library + its libc++ (pulled from a device, never commit)
+app/src/main/jniLibs/
